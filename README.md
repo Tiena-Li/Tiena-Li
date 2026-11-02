@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image-20250102010635115](https://raw.githubusercontent.com/Tiena-Li/blog-images/master/202501020106339.png)
+![image-20250102010635115](cover.png)
 
 <div align="center">
 <a href="mailto:li.tina2025@gmail.com" target="_blank">
